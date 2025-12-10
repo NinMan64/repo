@@ -1,0 +1,36 @@
+<packageInfo>
+   <bundleId>com.piercingimpulse.verduraios</bundleId>
+    <name>Verdura iOS</name>
+    <version>0.0.2</version>
+    <descriptions>
+        <description>
+            A stubborn and a bit fidgety solution to use YouTube 10.11.11546 on older iOS (7-10)
+        </description>
+        <description>
+            Created by GitHub user piercingimpulse. Repo-nized by NinMan64.
+        </description>
+        <description>
+            REQUIRES YOUTUBE APP VERSION 10.11.11546 TO WORK!
+        </description>
+        <description>
+            Note: to actually use this tweak, download one of these files, extract, and copy the contents of the .zip in the YouTube Bundles/Youtube.app folder! Filza and Safari+/Safari Download Manager is helpful for this and i would highly reccomend to install these first!
+        </description>
+        <description>
+            Web (Requires API key - add your api key in the API_KEY.js folder in the js folder!) - https://github.com/piercingimpulse/verduraiOS/releases/download/v.0.0.2beta/web.zip
+            Weblight (Doesn't require API key - just copy and paste!) - https://github.com/piercingimpulse/verduraiOS/releases/download/v.0.0.2beta/weblight.zip
+    </descriptions>
+    <compatibility>
+        <miniOS>9.0/miniOS>
+        <maxiOS>10.3.4</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+        <dependency>some other dependency</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.02 </changeVersion>
+            <changeDescription>Initial Release on this repo</changeDescription>
+            <changeDescription>That's it</changeDescription>
+    </changelog>
+</packageInfo>

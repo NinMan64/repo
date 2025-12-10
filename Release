@@ -1,0 +1,8 @@
+Origin: NinMan64's Repo for Nerds
+Label: NinMan64's Repo for Nerds
+Suite: stable
+Version: 1.0
+Codename: nm64-r4n
+Architectures: iphoneos-arm
+Components: main
+Description: NinMan64's Repository for Computer Nerds

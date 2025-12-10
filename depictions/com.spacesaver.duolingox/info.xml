@@ -1,0 +1,30 @@
+<packageInfo>
+   <bundleId>com.spacesaver.duolingox</bundleId>
+    <name>DuolingoX</name>
+    <version>1.0.0</version>
+    <descriptions>
+        <description>
+            A fix for the latest client of Duolingo for iOS 9.x... probaby 10.x too
+        </description>
+        <description>
+            Created by GitHub user SpaceSaver. Repo-nized by NinMan64.
+        </description>
+        <description>
+            REQUIRES DUOLINGO APP TO WORK!
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>9.0/miniOS>
+        <maxiOS>10.3.4</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+        <dependency>some other dependency</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V1.0.0 </changeVersion>
+            <changeDescription>Initial Public Release</changeDescription>
+            <changeDescription>That's it</changeDescription>
+    </changelog>
+</packageInfo>
